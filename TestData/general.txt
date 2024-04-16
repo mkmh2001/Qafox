@@ -1,0 +1,13 @@
+https://www.opencart.com/index.php
+
+manojkumar.haveri
+test@123
+
+pin : 6612
+
+https://tutorialsninja.com/demo/
+
+login
+https://tutorialsninja.com/demo/index.php?route=account/login
+
+add to cart and payment

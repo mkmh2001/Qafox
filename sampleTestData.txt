@@ -1,0 +1,5 @@
+Email = qafoxTestMk@gmail.com
+Telephone = 1234567890
+Password = 1234
+
+Monitors = ["Apple Cinema 30"" , "Samsung SyncMaster 941BW"]
